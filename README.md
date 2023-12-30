@@ -88,19 +88,19 @@ O código de testes está pela metade, e você deverá dar continuidade implemen
 ## Classe ValidacoesListaTests
 Nesta classe, as implementações dos métodos de teste para as funcionalidades da classe ValidacoesLista foram ajustadas conforme as expectativas do sistema.
 <br>
- - DeveRemoverNumerosNegativosDeUmaLista: Corrigido para garantir que apenas números positivos são mantidos na lista retornada.
- - DeveConterONumero9NaLista: Teste agora verifica se o número 9 está presente na lista corretamente.
- - NaoDeveConterONumero10NaLista: O teste agora avalia corretamente a ausência do número 10 na lista.
- - DeveMultiplicarOsElementosDaListaPor2: A implementação foi ajustada para verificar se todos os elementos da lista são corretamente multiplicados por 2.
- - DeveRetornar9ComoMaiorNumeroDaLista: Garante que o maior número na lista seja 9.
- - DeveRetornarOitoNegativoComoMenorNumeroDaLista: Corrigido para retornar corretamente o menor número da lista como -8.
+ - **DeveRemoverNumerosNegativosDeUmaLista:** Corrigido para garantir que apenas números positivos são mantidos na lista retornada.
+ - **DeveConterONumero9NaLista:** Teste agora verifica se o número 9 está presente na lista corretamente.
+ - **NaoDeveConterONumero10NaLista:** O teste agora avalia corretamente a ausência do número 10 na lista.
+ - **DeveMultiplicarOsElementosDaListaPor2:** A implementação foi ajustada para verificar se todos os elementos da lista são corretamente multiplicados por 2.
+ - **DeveRetornar9ComoMaiorNumeroDaLista:** Garante que o maior número na lista seja 9.
+ - **DeveRetornarOitoNegativoComoMenorNumeroDaLista** Corrigido para retornar corretamente o menor número da lista como -8.
    
 
 ## Classe ValidacoesStringTests
 Os testes para as funcionalidades da classe ValidacoesString foram atualizados para refletir as expectativas do sistema.
- - DeveRetornar6QuantidadeCaracteresDaPalavraMatrix: Corrigido para retornar corretamente o número de caracteres na palavra "Matrix".
- - DeveContemAPalavraQualquerNoTexto: Verifica se a palavra "qualquer" está presente no texto.
- - NaoDeveConterAPalavraTesteNoTexto: Testa a ausência da palavra "teste" no texto.
- - TextoDeveTerminarComAPalavraProcurado: Avalia se a palavra "procurado" está no final do texto.
+ - **DeveRetornar6QuantidadeCaracteresDaPalavraMatrix:** Corrigido para retornar corretamente o número de caracteres na palavra "Matrix".
+ - **DeveContemAPalavraQualquerNoTexto:** Verifica se a palavra "qualquer" está presente no texto.
+ - **NaoDeveConterAPalavraTesteNoTexto:** Testa a ausência da palavra "teste" no texto.
+ - **TextoDeveTerminarComAPalavraProcurado:** Avalia se a palavra "procurado" está no final do texto.
    
 > Com essas correções, os testes agora abrangem cenários positivos e negativos, garantindo uma cobertura mais abrangente das funcionalidades críticas do sistema. Essas mudanças visam fortalecer a confiabilidade do código e aumentar a qualidade geral do software.
