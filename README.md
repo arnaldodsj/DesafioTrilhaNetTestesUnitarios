@@ -104,3 +104,7 @@ Os testes para as funcionalidades da classe ValidacoesString foram atualizados p
  - **TextoDeveTerminarComAPalavraProcurado:** Avalia se a palavra "procurado" está no final do texto.
    
 > Com essas correções, os testes agora abrangem cenários positivos e negativos, garantindo uma cobertura mais abrangente das funcionalidades críticas do sistema. Essas mudanças visam fortalecer a confiabilidade do código e aumentar a qualidade geral do software.
+
+## Resultado do Teste
+
+![ValidacoesLista cs - DesafioTilhaNetTestesUnitarios - Visual Studio Code 30_12_2023 11_04_16](https://github.com/Tarcilalves/DesafioTrilhaNetTestesUnitarios/assets/107896645/63d117f8-5d7a-4d05-af17-cd137ccb3d6a)
